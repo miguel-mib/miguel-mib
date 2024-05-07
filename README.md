@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning NextJS<br>🎯 Goals: Be rich<br>🎲 Fun fact: I'm brazilian</p>
+<p align="left">✨ Creating bugs since 2021<br>📅 17y old<br>📚 I'm currently learning ReactNative<br>🎯 Goals: Be happy<br>🎲 Fun fact: I'm brazilian</p>
 
 ###
 
