@@ -3,7 +3,7 @@
 Self-taught developer for over 2 years, currently focused on developing front end for websites and applications using NextJS and React Native. I'm using a JS stack (Node, React, React-Native) to develop front-end and full-stack applcations.
 
 - 📍 Espírito Santo, Brasil
-- 🏢 Developer at <a target="_blank" href="https://www.lifeeng.com.br/" >Life Solutions</a>.
+- 🏢 Developer at [Life Solutions](https://www.lifeeng.com.br/)
 - 🎯 Trying to improve my skills
  
 ## My languages and tools:
